@@ -16,8 +16,14 @@ class SplashScreen extends StatelessWidget {
       },
     );
 
-    return Scaffold(
-      body: Text("Splash Screen"),
+    return const Scaffold(
+      body: Center(
+        child: Image(
+          image: AssetImage(
+            "lib/assets/logo/logo.gif",
+          ),
+        ),
+      ),
     );
   }
 }

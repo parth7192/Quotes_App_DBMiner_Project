@@ -1,4 +1,4 @@
-import 'package:db_miner/controller/db_controller.dart';
+import 'package:db_miner/controller/api_controller.dart';
 import 'package:db_miner/controller/theme_controller.dart';
 import 'package:db_miner/my_app.dart';
 import 'package:flutter/material.dart';
