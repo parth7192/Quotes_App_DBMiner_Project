@@ -1,6 +1,4 @@
-import 'package:db_miner/modal/db_model.dart';
-import 'package:logger/logger.dart';
-import 'package:sqflite/sqflite.dart';
+import 'package:db_miner/headers.dart';
 
 enum QuoteTable {
   id,

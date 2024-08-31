@@ -1,7 +1,4 @@
-import 'package:db_miner/controller/api_controller.dart';
-import 'package:db_miner/modal/db_model.dart';
-import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
+import 'package:db_miner/headers.dart';
 
 class DetailPage extends StatelessWidget {
   const DetailPage({super.key});

@@ -1,7 +1,4 @@
-import 'package:db_miner/controller/theme_controller.dart';
-import 'package:db_miner/routes/app_routes/app_routes.dart';
-import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
+import 'package:db_miner/headers.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -10,6 +7,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+
       routes: AppRoutes.instance.routes,
       theme: ThemeData(
         brightness: Brightness.light,

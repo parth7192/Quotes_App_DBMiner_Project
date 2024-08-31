@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
+import 'package:db_miner/headers.dart';
 
 class TheamController extends ChangeNotifier {
   SharedPreferences sp;

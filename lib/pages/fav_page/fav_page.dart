@@ -1,8 +1,4 @@
-import 'dart:math';
-import 'package:db_miner/controller/api_controller.dart';
-import 'package:db_miner/controller/theme_controller.dart';
-import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
+import 'package:db_miner/headers.dart';
 
 class FavoritePage extends StatelessWidget {
   const FavoritePage({super.key});

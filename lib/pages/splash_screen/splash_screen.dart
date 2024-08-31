@@ -1,5 +1,4 @@
-import 'package:db_miner/routes/app_routes/app_routes.dart';
-import 'package:flutter/material.dart';
+import 'package:db_miner/headers.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});

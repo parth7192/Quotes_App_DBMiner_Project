@@ -1,8 +1,8 @@
-import 'package:db_miner/pages/detailpage/detail_page.dart';
-import 'package:db_miner/pages/favoritepage/favorite_page.dart';
-import 'package:db_miner/pages/homepage/home_page.dart';
-import 'package:db_miner/pages/splashscreen/splash_screen.dart';
-import 'package:flutter/material.dart';
+import 'package:db_miner/headers.dart';
+import 'package:db_miner/pages/detail_page/detail_page.dart';
+import 'package:db_miner/pages/fav_page/fav_page.dart';
+import 'package:db_miner/pages/home_page/home_page.dart';
+import 'package:db_miner/pages/splash_screen/splash_screen.dart';
 
 class AppRoutes {
   AppRoutes._();

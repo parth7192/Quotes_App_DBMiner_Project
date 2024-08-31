@@ -1,21 +1,13 @@
-import 'package:db_miner/helper/db/like_db.dart';
-import 'package:db_miner/modal/db_model.dart';
-import 'package:db_miner/services/quotes_services/quotes_services.dart';
-import 'package:flutter/material.dart';
-import 'package:logger/logger.dart';
+import 'package:db_miner/headers.dart';
 
 class QuoteController extends ChangeNotifier {
   QuoteController() {
-    // getallQutos();
+    initDataBase();
   }
 
   List<Quotes> allquotes = [];
   List<Quotes> allFavQuotes = [];
   List allFavAuthor = [];
-
-  // Future<void> getallQutos() async {
-  //   allquotes = await QuotesServices.services.getallQuotes();
-  // }
 
   Future<void> initDataBase() async {
     allFavQuotes = await LikeDB.likedb.getAllData();

@@ -1,9 +1,6 @@
 import 'dart:math';
-import 'package:db_miner/controller/api_controller.dart';
-import 'package:db_miner/controller/theme_controller.dart';
-import 'package:db_miner/routes/app_routes/app_routes.dart';
-import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
+
+import 'package:db_miner/headers.dart';
 
 class HomePage extends StatelessWidget {
   @override
@@ -15,6 +12,30 @@ class HomePage extends StatelessWidget {
     Size size = MediaQuery.of(context).size;
 
     return Scaffold(
+      drawer: const Drawer(
+        child: Column(
+          children: [
+            UserAccountsDrawerHeader(
+              currentAccountPicture: CircleAvatar(
+                radius: 50,
+                backgroundImage: NetworkImage(
+                    "https://i.pinimg.com/736x/cb/31/0c/cb310c2f85868ec882758d5e17ee28e6.jpg"),
+              ),
+              accountName: Text(
+                "DB MINER",
+                style: TextStyle(color: Colors.black, fontSize: 20),
+              ),
+              accountEmail: Text(
+                "dbminer@gmail.com",
+                style: TextStyle(color: Colors.black, fontSize: 16),
+              ),
+              decoration: BoxDecoration(
+                color: Colors.black26,
+              ),
+            ),
+          ],
+        ),
+      ),
       appBar: AppBar(
         centerTitle: true,
         title: const Text("HOME PAGE"),
