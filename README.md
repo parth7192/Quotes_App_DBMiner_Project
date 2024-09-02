@@ -83,6 +83,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Pages
 
 # Screenshot
+
 <img align = "left"  src = "https://github.com/user-attachments/assets/7de557af-c4c7-4809-97af-fba28dcbf6ff" width=22% height=35%>
 
 <img align = "left"  src = "https://github.com/user-attachments/assets/dfff74a5-410e-4416-8dbd-02dac3709b7c" width=22% height=35%>
