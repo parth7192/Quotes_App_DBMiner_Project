@@ -43,7 +43,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/IamSmitChitroda/pragati_app
+    git clone https://github.com/parth7192/Quotes_App_DBMiner_Project
     cd pragati-quotes-app
     ```
 
