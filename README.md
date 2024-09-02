@@ -82,21 +82,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Pages
 
-### Screenshot
+# Screenshot
+<img align = "left"  src = "https://github.com/user-attachments/assets/7de557af-c4c7-4809-97af-fba28dcbf6ff" width=22% height=35%>
 
-  <img align = "left"  src = "https://github.com/user-attachments/assets/7de557af-c4c7-4809-97af-fba28dcbf6ff" width=22% height=35%>
+<img align = "left"  src = "https://github.com/user-attachments/assets/dfff74a5-410e-4416-8dbd-02dac3709b7c" width=22% height=35%>
 
-  <img align = "left"  src = "https://github.com/user-attachments/assets/dfff74a5-410e-4416-8dbd-02dac3709b7c" width=22% height=35%>
-
-  <img align = "left"  src = "https://github.com/user-attachments/assets/9e7dfedf-6f63-456d-a4f5-5a8e88fcbca7" width=22% height=35%>
+<img align = "left"  src = "https://github.com/user-attachments/assets/9e7dfedf-6f63-456d-a4f5-5a8e88fcbca7" width=22% height=35%>
   
-  <img align = "left"  src = "https://github.com/user-attachments/assets/3613299d-08df-43d7-b3d1-fdac062b6ca2" width=22% height=35%>
+<img align = "left"  src = "https://github.com/user-attachments/assets/3613299d-08df-43d7-b3d1-fdac062b6ca2" width=22% height=35%>
 
-  <img align = "left"  src = "https://github.com/user-attachments/assets/fc310436-826d-42a8-b511-782cb6877ba1" width=22% height=35%>
+<img align = "left"  src = "https://github.com/user-attachments/assets/fc310436-826d-42a8-b511-782cb6877ba1" width=22% height=35%>
 
-  <img align = "left"  src = "https://github.com/user-attachments/assets/a74e214d-4ec0-4c3f-bbf6-ffed7438dd21" width=22% height=35%>
+<img align = "left"  src = "https://github.com/user-attachments/assets/a74e214d-4ec0-4c3f-bbf6-ffed7438dd21" width=22% height=35%>
  
-  <img align = "left"  src = "https://github.com/user-attachments/assets/d29c581d-19a4-4d52-9c58-f5880f800a9a" width=22% height=35%>
+<img align = "left"  src = "https://github.com/user-attachments/assets/d29c581d-19a4-4d52-9c58-f5880f800a9a" width=22% height=35%>
 
-  <img align = "left"  src = "https://github.com/user-attachments/assets/e590af7f-7634-4aa4-81a6-ca56b5e2d11b" width=22% height=35%>
+<img align = "left"  src = "https://github.com/user-attachments/assets/e590af7f-7634-4aa4-81a6-ca56b5e2d11b" width=22% height=35%>
   
